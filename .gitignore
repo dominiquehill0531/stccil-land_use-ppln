@@ -1,3 +1,7 @@
+# StClairCo_LandUse
+land_use_venv/
+gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
